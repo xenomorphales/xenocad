@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/XenGi/teensy.pretty.git
+	branch = master
+	commit = 9f8c33ee15883650a70cbdd06f62bc258afe5460
+	parent = cec2c7ef50cb6d78237a710e406eeb02966c5625
+	cmdver = 0.3.1
